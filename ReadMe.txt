@@ -12,3 +12,6 @@ des dossiers ne doit pas être changée. L'ensemble des dossiers doit être mis 
 ************************app
 Lien application :
 	https://moustapha353.pythonanywhere.com/
+
+********************* dashboard
+Fait avec PowerBI
