@@ -1,3 +1,5 @@
+Le dossier complet a été envoyé par mail : moustodiop353@gmail.com
+
 notebooks : les différents notebook
 	- un pour l'analyse exploratoiren EDA
 	- un autre pour la partie modelisation
