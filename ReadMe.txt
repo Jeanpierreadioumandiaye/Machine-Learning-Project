@@ -12,7 +12,7 @@ des dossiers ne doit pas être changée. L'ensemble des dossiers doit être mis 
 
 ************************app
 Application :
-	Les sorties de la plateforme sont trouvées sous forme de fichier html dans le dossier nommé examples du dossier API.
+	Les sorties de la plateforme sont trouvées sous forme de fichier html dans le dossier nommé examples du dossier APP.
 
 ********************* dashboard
 Fait avec PowerBI
