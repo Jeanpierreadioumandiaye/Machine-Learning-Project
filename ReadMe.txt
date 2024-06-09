@@ -11,7 +11,7 @@ des dossiers ne doit pas être changée. L'ensemble des dossiers doit être mis 
 
 ************************app
 Application :
-	Il s'agit d'un fichier html
+	Les sorties de l'API sont trouvées sous forme de fichier html dans le dossier nommé examples du dossier API.
 
 ********************* dashboard
 Fait avec PowerBI
