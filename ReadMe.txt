@@ -19,5 +19,5 @@ Application :
 Fait avec PowerBI
 
 ********************* api
-Il s'agit d'un code source.
+Il y a l'API dans le dossier api
 
